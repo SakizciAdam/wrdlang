@@ -5,8 +5,8 @@ Interpreter for my programming language wrdlang(weird language)
 ## Usage
 
 ```bash
-wrdlang <file name> -> Executes code
-wrdlang <file name> --debug -> Executes code with not so readable debug messages
+wrdlang <file name>  Executes code
+wrdlang <file name> --debug  Executes code with not so readable debug messages
 ```
 
 ## Examples

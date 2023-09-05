@@ -1,0 +1,10 @@
+var a=0
+var b=a+16
+var c=b*2
+println(c)
+
+var x="A is "+a
+println(x)
+
+var y=true
+println(y)

@@ -1,0 +1,21 @@
+struct Vector {
+    var x=0.0
+    var y=0.0
+
+}
+
+fn multiply void(Vector v,double m):
+    v.x=v.x*m
+    v.y=v.y*m
+end0
+
+var vec=new Vector();
+
+vec.x=16.0
+vec.y=256.0
+
+println(vec.x+" "+vec.y)
+
+multiply(vec,2)
+
+println(vec.x+" "+vec.y)

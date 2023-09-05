@@ -1,0 +1,10 @@
+import WrdLang.Lang.Math
+
+println(Math.pow(2,10))
+println(Math.sqrt(16))
+println(Math.sqrt(25))
+println(Math.sqrt(20))
+println(Math.sqrt(15.9999))
+println(Math.floor(Math.sqrt(15.9999)))
+println(Math.ceil(Math.sqrt(15.9999)))
+println(Math.DoubleToInt(Math.sqrt(15.9999)))

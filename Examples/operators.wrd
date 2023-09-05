@@ -1,0 +1,8 @@
+var a=0
+set a=6
+set a=a*2
+set a-=24
+set a+=2
+set a*=6
+set a/=3
+println(a)

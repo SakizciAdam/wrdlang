@@ -1,0 +1,5 @@
+var x=new Array<int>(0,5,6,8)
+
+println(x.get(0))
+x.set(0,16)
+println(x.get(0))

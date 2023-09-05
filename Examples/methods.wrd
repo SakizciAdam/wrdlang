@@ -1,0 +1,14 @@
+fn printer void(string name):
+    println(name +" is cool")
+end0
+
+
+fn sum double(double x,double y):
+    return x+y
+end0
+
+
+printer("wrdlang")
+
+println(sum(5,7))
+println(sum(0.12,9.06))

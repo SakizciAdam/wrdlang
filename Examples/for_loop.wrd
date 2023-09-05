@@ -1,0 +1,15 @@
+for i 0 to 12:
+    println("i is "+i)
+end0
+
+var b=3
+
+for j 0 to b:
+    println("j is "+j)
+end0
+
+for x 0 to 2*b:
+    for y 0 to 12+3:
+        println(x+y)
+    end1
+end0
